@@ -96,3 +96,5 @@ Average Marks: 85.0
 ```
 Sum of Marks: 255
 ```
+## Acknowledgments
+- This project was developed by **Rishikesh Gawali**.
